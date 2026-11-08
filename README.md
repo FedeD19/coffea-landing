@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34555566/README.md)
 # Coffea – Landing Page (TP4)
 
 Landing page estática de la cafetería ficticia **Coffea**, hecha solo con **HTML5 + CSS3** (sin JavaScript, frameworks ni preprocesadores), según el PRD del TP4.
