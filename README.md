@@ -38,13 +38,6 @@ python -m http.server 8000
 
 y entrar a http://localhost:8000
 
-## Deploy en Netlify
-
-1. Subir el repositorio a GitHub.
-2. En Netlify: _Add new site → Import an existing project_ y elegir el repo.
-3. Build command: vacío. Publish directory: `TP4` (o `.` si el repo es solo este proyecto).
-4. Cada push a `main` publica automáticamente; cada Pull Request genera un Deploy Preview.
-
 ## Notas
 
 - Las fotos son de Unsplash (uso libre) y reemplazan a las del template de Figma.
